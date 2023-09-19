@@ -11,21 +11,17 @@ const Navbar = () => {
           <span className="app-title">Text Analyser</span>
           <ul className="social-links">
             <li>
-              <a href="https://codewithbasit.netlify.app/" target="_blank" rel="noreferrer">
+              <a href="https://suhag.me" target="_blank" rel="noreferrer">
                 <Website />
               </a>
             </li>
             <li>
-              <a href="https://twitter.com/Basit_Miyanji" target="_blank" rel="noreferrer">
+              <a href="https://twitter.com/suhag_alamin_me" target="_blank" rel="noreferrer">
                 <Twitter />
               </a>
             </li>
             <li>
-              <a
-                href="https://www.linkedin.com/in/abdulbasitprofile/"
-                target="_blank"
-                rel="noreferrer"
-              >
+              <a href="inkedin.com/in/suhag-al-amin/" target="_blank" rel="noreferrer">
                 <Linkedin />
               </a>
             </li>
